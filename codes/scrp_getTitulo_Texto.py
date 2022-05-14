@@ -29,3 +29,15 @@ def getLinks(pageUrl):
                 getLinks(newPage)
 
 getLinks('')
+
+
+''' 
+Melhor não testar muito...
+
+/wiki/Category:Administrative_backlog
+Category:Administrative backlog
+<p>This category lists <b>backlogs</b> which require the attention of <a href="/wiki/Wikipedia:Administrators" title="Wikipedia:Administrators">administrators</a>.
+Backlogs which do not require the attention of administrators may be found at <a href="/wiki/Category:Wikipedia_backlog" title="Category:Wikipedia backlog">Category:Wikipedia backlog</a>.
+</p>
+
+'''
