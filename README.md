@@ -12,11 +12,10 @@
 Objetivo: XP em Automação / Possibilidades
 
 __> Guia: Web Scraping with Python
-__> Master: Ryan Mitchell <3
-
+ 
 <br/>
 
 
 ![alt txt](https://cdn.oreillystatic.com/images/people/154/ryan_mitchell.jpg)
 
-<q>Ryan Mitchell - Software Engineer</q>
+<q>Ryan Mitchell - Software Engineer</q> <3
