@@ -20,3 +20,11 @@ class ArticleSpider(CrawlSpider):
         print('Text is: {}'.format(text))
         print('Last updated: {}'.format(lastUpdated))
         
+''' 
+    Roda indefinidamente - Não executar por muito tempo!
+    
+    Ao ser executado, o spider percorre wikpedia.org, seguindo todos os links do domínio
+    wiki-pedia.org, exibindo os títulos das páginas e ignorando todos os links extenos.
+
+'''        
+        
